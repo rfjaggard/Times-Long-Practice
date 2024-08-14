@@ -25,7 +25,9 @@ footer,
 main {
   margin: auto;
   max-width: 1400px;
-  
-  padding-left: 40px;
-  padding-right: 40px;
+  padding: 0 40px;
+}
+
+.masthead-icon {
+
 }
